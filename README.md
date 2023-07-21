@@ -1,16 +1,17 @@
 # db_shop
 
-A new Flutter project.
+A simple Flutter application that displays a list of products.
 
-## Getting Started
+## For Running this Application
+clone this Repositary into any directory in your pc, by using
 
-This project is a starting point for a Flutter application.
+       git clone https://github.com/kailasnv/product-list-app.git
 
-A few resources to get you started if this is your first Flutter project:
+After that, open the project file in VS code - and Run 'flutter pub get' in the terminal
+if everything is ok, Run 'flutter run' in the termial to start the app.
+  
+        
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ 
