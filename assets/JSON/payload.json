@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "title": "DualShock ",
+            "image": "assets/images/product (1).png",
+            "price": 1199,
+            "description": "The DualShock (originally known as Dual Shock; trademarked as DUALSHOCK or DUAL SHOCK; with the PlayStation 5 version named DualSense) is a line of gamepads with vibration-feedback and analog controls developed by Sony Interactive Entertainment for the PlayStation family of systems"
+        },
+        {
+            "title": "Red Dragon - Keyboard",
+            "image": "assets/images/product (2).png",
+            "price": 950,
+            "description": "The RGB keyboard refers to an advanced type of LED backlit keyboard, which produces custom colors by projecting simultaneous combinations of red, green, as well as blue. RGB keyboard allows you to choose the specific favorite colors and program to appear on certain keys or in special sequences"
+        },
+        {
+            "title": "K wireless Mouse",
+            "image": "assets/images/product (3).png",
+            "price": 700,
+            "description": "Wireless technology is so good these days that even competitive pro gamers often use them over their wired counterparts. The difference in latency between a top tier wired and wireless mouse is so small as to be imperceptible, even for pro gamer"
+        },
+        {
+            "title": "Redmi Powerbank",
+            "image": "assets/images/product (4).png",
+            "price": 2600,
+            "description": "Power banks are portable charging devices that can be used to charge smartphones or any other devices that have a USB port within them. Power banks can also be used to charge Bluetooth speakers, Bluetooth headphones, other types of charged headsets, etc."
+        },
+        {
+            "title": "JBL - speaker",
+            "image": "assets/images/product (5).png",
+            "price": 1400,
+            "description": "In terms of overall verdict, JBL speakers are a good choice for those who want a balance of sound quality, durability, and features at a reasonable price. While they may not be the best in every category, they offer a well-rounded package that is sure to satisfy most users."
+        },
+        {
+            "title": "Apple Airpods",
+            "image": "assets/images/product (6).png",
+            "price": 14000,
+            "description": "The custom-designed speakers deliver clear and crisp audio, and the noise-cancellation technology reduces outside noise for an immersive listening experience. AirPods also feature touch controls for easy music playback and phone call management, as well as voice-activated Siri for hands-free convenience."
+        },
+        {
+            "title": "JBL- Headphones",
+            "image": "assets/images/product (7).png",
+            "price": 5499,
+            "description": "The JBL headphones are the best in sound quality and bass. They have a very good noise cancellation feature which makes them perfect for listening to music while travelling or working out at the gym."
+        },
+        {
+            "title": "Beats - Headphones",
+            "image": "assets/images/product (8).png",
+            "price": 19000,
+            "description": "Dre (Beats) is a leading audio brand founded in 2006 by Dr. Dre and Jimmy Iovine. Through its family of premium consumer headphones, earphones and speakers, Beats has introduced an entirely new generation to the possibilities of premium sound entertainment."
+        }
+    ]
+}
