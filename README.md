@@ -13,7 +13,16 @@ And Run 'flutter pub get' in the terminal.
 
 If everything is ok, Run 'flutter run' command in the termial to start the app.
 
-                            flutter run
+     flutter run
+
+     
+### screenshots
+<img src="https://github.com/kailasnv/product-list-app/assets/130171990/b99135c8-9035-4449-bde6-7377db7e9355" height="50%" width="50%"/>
+
+ 
+
+
+                         
   
         
 
