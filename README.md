@@ -1,7 +1,7 @@
 # db_shop
 
 A simple Flutter application that displays a list of products.
-The list of products are loaded from a Local JSON file.
+The products are loaded from a Local JSON file.
 
 ## For Running this Application
 clone this Repositary into any directory in your pc, by using
